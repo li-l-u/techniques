@@ -1,0 +1,19 @@
+body{
+  padding: 10px;
+text-align: center;
+}
+h1 {
+
+  background: #FFE3DE;
+  border: 5px solid pink;
+  font-size: 100px;
+  margin-top: 10px;
+  margin-bottom: 1px;
+  
+}
+p {
+  font-size: 50px;
+  color: red;
+  font-style: italic;
+  margin:1px;
+}
